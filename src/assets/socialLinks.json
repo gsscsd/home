@@ -4,11 +4,5 @@
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
     "url": "https://github.com/Gsscsd"
-  },
-  {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "Gsscsd@qq.com"
   }
 ]
